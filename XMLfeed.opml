@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0">
+  <head>
+    <title> </title>
+  </head>
+  <body>
+    <outline htmlUrl="https://www.threatlocker.com/blog" text="Security insights from ThreatLocker" title="ThreatLocker Blog" xmlUrl="https://www.threatlocker.com/blog/rss.xml" />
+    <outline htmlUrl="http://www.uptimerobot.com/" text="Sending the status of your websites via RSS." title="Uptime Robot - All Monitors" xmlUrl="https://rss.uptimerobot.com/u329910-c7cbd9e4b74744c41b00e3782c9ed9cd" />
+    <outline htmlUrl="https://blogs.nasa.gov/spacestation" text="Off The Earth, For The Earth" title="Space Station" xmlUrl="https://blogs.nasa.gov/spacestation/feed/" />
+    <outline htmlUrl="http://seclists.org/#fulldisclosure" text="A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community.  The relaxed atmosphere of this quirky list provides some comic relief and certain industry gossip.  More importantly, fresh vulnerabilities sometimes hit this list many hours or days before they pass through the Bugtraq moderation queue." title="Full Disclosure" xmlUrl="https://seclists.org/rss/fulldisclosure.rss" />
+    <outline htmlUrl="https://www.bleepingcomputer.com/" text="BleepingComputer - All Stories" title="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" />
+    <outline htmlUrl="https://community.disclose.io/latest" text="Latest topics" title="@disclose_io Community Forum - Latest topics" xmlUrl="https://community.disclose.io/latest.rss" />
+    <outline htmlUrl="https://www.hackerone.com/" text="The HackerOne Blog" title="HackerOne" xmlUrl="https://www.hackerone.com/blog.rss" />
+    <outline htmlUrl="https://www.microsoft.com/security/blog" text="Expert coverage of cybersecurity topics" title="Microsoft Security Blog" xmlUrl="https://www.microsoft.com/security/blog/feed/" />
+    <outline htmlUrl="https://www.cobaltstrike.com" text="Cobalt Strike Research and Development, a HelpSystems blog. :)" title="Cobalt Strike Research and Development" xmlUrl="https://blog.cobaltstrike.com/feed/" />
+    <outline htmlUrl="https://insights.sei.cmu.edu/feeds/topic/certcc/atom/?utm_source=blog&amp;utm_medium=rss" text="Updates on changes and additions to the                     SEI Blog for posts matching CERT/CC Vulnerabilities" title="SEI Blog | CERT/CC Vulnerabilities" xmlUrl="https://insights.sei.cmu.edu/blog/feeds/topic/certcc/atom/" />
+    <outline htmlUrl="https://msrc-blog.microsoft.com" title="Microsoft Security Response Center" xmlUrl="https://msrc-blog.microsoft.com/feed/" />
+    <outline htmlUrl="https://windows-internals.com" text="Windows Internals Training &amp; Consulting" title="Winsider Seminars &amp; Solutions Inc." xmlUrl="https://windows-internals.com/feed/" />
+    <outline htmlUrl="https://linux-audit.com" text="The Linux security blog about Auditing, Hardening, and Compliance" title="Linux Audit" xmlUrl="https://linux-audit.com/feed/" />
+    <outline htmlUrl="https://adsecurity.org" text="Active Directory &amp; Enterprise Security, Methods to Secure Active Directory, Attack Methods &amp; Effective Defenses, PowerShell, Tech Notes, &amp; Geek Trivia..." title="Active Directory Security" xmlUrl="https://adsecurity.org/?feed=rss2" />
+    <outline htmlUrl="https://threatpost.com" text="The First Stop For Security News" title="Threatpost" xmlUrl="https://threatpost.com/feed/" />
+    <outline htmlUrl="https://4sysops.com" text="For SysAdmins and DevOps" title="4sysops" xmlUrl="https://4sysops.com/feed/" />
+    <outline htmlUrl="https://www.securityweek.com" text="Latest IT Security News and Expert Insights Via RSS Feed" title="SecurityWeek RSS Feed" xmlUrl="https://feeds.feedburner.com/securityweek" />
+    <outline htmlUrl="https://www.osnews.com" text="Exploring the Future of Computing" title="OSnews" xmlUrl="https://www.osnews.com/feed/" />
+    <outline htmlUrl="https://slashdot.org/" text="News for nerds, stuff that matters" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" />
+    <outline htmlUrl="https://www.thezdi.com/blog/" text="" title="Zero Day Initiative - Blog" xmlUrl="https://www.zerodayinitiative.com/blog?format=rss" />
+    <outline htmlUrl="https://www.cyberciti.biz/atom/" title="nixCraft: Linux Tips, Hacks, Tutorials, And Ideas In Blog Format (RSS/FEED)" xmlUrl="https://www.cyberciti.com/atom/atom.xml" />
+    <outline htmlUrl="https://itsfoss.com" text="A Linux and Open Source Web Portal" title="It's FOSS" xmlUrl="https://itsfoss.com/feed/" />
+    <outline htmlUrl="https://www.malware-traffic-analysis.net/index.html" text="A malware traffic analysis blog" title="Malware-Traffic-Analysis.net - Blog Entries" xmlUrl="https://malware-traffic-analysis.net/blog-entries.rss" />
+    <outline htmlUrl="https://insideevs.com/" text="Get breaking news, in-depth articles and press releases covering News" title="InsideEVs" xmlUrl="https://insideevs.com/rss/news/all/" />
+    <outline htmlUrl="https://chargedevs.com" text="Electric Vehicles Magazine" title="Charged EVs" xmlUrl="http://chargedevs.com/feed" />
+  </body>
+</opml>
