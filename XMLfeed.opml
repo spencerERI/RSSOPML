@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0">
   <head>
-    <title> </title>
+    <title>Newsflow</title>
   </head>
   <body>
     <outline htmlUrl="https://www.threatlocker.com/blog" text="Security insights from ThreatLocker" title="ThreatLocker Blog" xmlUrl="https://www.threatlocker.com/blog/rss.xml" />
@@ -29,5 +29,12 @@
     <outline htmlUrl="https://www.malware-traffic-analysis.net/index.html" text="A malware traffic analysis blog" title="Malware-Traffic-Analysis.net - Blog Entries" xmlUrl="https://malware-traffic-analysis.net/blog-entries.rss" />
     <outline htmlUrl="https://insideevs.com/" text="Get breaking news, in-depth articles and press releases covering News" title="InsideEVs" xmlUrl="https://insideevs.com/rss/news/all/" />
     <outline htmlUrl="https://chargedevs.com" text="Electric Vehicles Magazine" title="Charged EVs" xmlUrl="http://chargedevs.com/feed" />
+    <outline htmlUrl="https://devblogs.microsoft.com/powershell" text="Automating the world one-liner at a time…" title="PowerShell Team" xmlUrl="http://devblogs.microsoft.com/powershell/feed/" />
+    <outline htmlUrl="https://lazyadmin.nl" text="Tips and howto's about Office 365, PowerShell, Home network and smart devices" title="LazyAdmin" xmlUrl="https://lazyadmin.nl/feed/" />
+    <outline htmlUrl="https://superuser.com/questions" text="most recent 30 from superuser.com" title="Bountied questions - Super User" xmlUrl="http://superuser.com/feeds/featured" />
+    <outline htmlUrl="https://blog.codinghorror.com/" text="programming and human factors" title="Coding Horror" xmlUrl="http://feeds.feedburner.com/codinghorror/" />
+    <outline htmlUrl="http://www.blogger.com/feeds/36470398/posts/default?start-index=26&amp;max-results=25&amp;redirect=false" text="Cloud, Security, Digital Forensics, UNIX" title="Cloud Architecture and Technology Blog" xmlUrl="http://feeds.feedburner.com/unixsadm" />
+    <outline htmlUrl="http://www.blogger.com/feeds/1176949257541686127/posts/default?start-index=26&amp;max-results=25&amp;redirect=false" text="The latest news and insights from Google on security and safety on the Internet." title="Google Online Security Blog" xmlUrl="http://feeds.feedburner.com/GoogleOnlineSecurityBlog" />
+    <outline htmlUrl="https://major.io/images/2019-05-24-cranes-skycrapers.jpg" text="Recent content on Major Hayden" title="Major Hayden" xmlUrl="https://major.io/index.xml" />
   </body>
 </opml>
