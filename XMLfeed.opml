@@ -5,7 +5,6 @@
   </head>
   <body>
     <outline htmlUrl="https://www.threatlocker.com/blog" text="Security insights from ThreatLocker" title="ThreatLocker Blog" xmlUrl="https://www.threatlocker.com/blog/rss.xml" />
-    <outline htmlUrl="http://www.uptimerobot.com/" text="Sending the status of your websites via RSS." title="Uptime Robot - All Monitors" xmlUrl="https://rss.uptimerobot.com/u329910-c7cbd9e4b74744c41b00e3782c9ed9cd" />
     <outline htmlUrl="https://blogs.nasa.gov/spacestation" text="Off The Earth, For The Earth" title="Space Station" xmlUrl="https://blogs.nasa.gov/spacestation/feed/" />
     <outline htmlUrl="http://seclists.org/#fulldisclosure" text="A public, vendor-neutral forum for detailed discussion of vulnerabilities and exploitation techniques, as well as tools, papers, news, and events of interest to the community.  The relaxed atmosphere of this quirky list provides some comic relief and certain industry gossip.  More importantly, fresh vulnerabilities sometimes hit this list many hours or days before they pass through the Bugtraq moderation queue." title="Full Disclosure" xmlUrl="https://seclists.org/rss/fulldisclosure.rss" />
     <outline htmlUrl="https://www.bleepingcomputer.com/" text="BleepingComputer - All Stories" title="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" />
